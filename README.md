@@ -8,4 +8,5 @@ This Repo is the Place that the Coding Department Stores Unused Code and Tries o
 
 This Repo is used for non `Java` Programes. 
 
-If you are looking for are java, look at [com.DynaLogic.sandbox](https://www.github.com/dynalogic/com.dynalogic.sandbox).
+This is repo is curently unused in favor of [com.DynaLogic.sandbox](https://www.github.com/dynalogic/com.dynalogic.sandbox).
+
